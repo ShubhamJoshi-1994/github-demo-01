@@ -1,10 +1,3 @@
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.
+
+This is a text file where I am writing some text.
