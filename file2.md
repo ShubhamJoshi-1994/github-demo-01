@@ -13,3 +13,11 @@
   - Git Branching
   - Git Rebase
   - Git Squashing
+
+### Removing Branches from local which are deleted from remote
+
+- There is no straight forward way to do this.
+- We have to manually remove the branches from local.
+- We can use the following command to remove the branches from local:
+  - `git branch -d <branch-name>`
+  - `git branch -D <branch-name>`
