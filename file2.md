@@ -21,3 +21,8 @@
 - We can use the following command to remove the branches from local:
   - `git branch -d <branch-name>`
   - `git branch -D <branch-name>`
+
+### Removing a file from Github tracking (Incase it is pushed to remote and we want to remove it from remote)
+
+- We can use the following command to remove the file from Github tracking:
+  - `git rm --cached <file-name>`
